@@ -9,32 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Logistic administrative Employee — Institute of Data Science
+(IDS) & Department of Advanced Computing Sciences (DACS), Maastricht University
+  * Office Assistance
+  * Office move to Paul-Henri Spaaklaan (PHS 1)
+  * Support Organizing the WiDS 2021 Conference & Datathon
+  * Homebase design south tower(C) PHS 1, thirt floor
+  * FAIR Coffee Lectures Recordings
+  * Internal Onboarding IDS
+  * Technical Assistance for lecturers
+  * Media support to the IDS and researchers
+* Operational Assistant — Institute of Data Science (IDS),
+Maastricht University
+  * Purchasing and stock management
+  * Maintaining office rooms and equipment
+  * Receiving (internal and external) guests
+  * Preparing meetings and events
+  * UM Data Science Research Seminars 2019/2020
+* Administrative Assistant at How2behealthy (H2BH)
+  *  Checking and processing all outgoing and incoming invoices
+  *  Recruiting consultants & sales
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Financial Assistant — Rea College, Pluryn, Heerlen
+2015 - 2017
+
+Facility Management — Zuyd Hogeschool, Heerlen
+2008 (Propedeuse) - 2013
+
+  
+Professional Skills
+======
+
+Adaptability & Creativity
+Communication
+Openness to experience
+Conscientiousness
+Time Management
+Flexibility
+
+With tools, like:
+Google, Microsoft, SAP,
+GitHub, Raspberry Pi, Zapier,
+SLACK, Instagram, Facebook,
+Adobe Photoshop, Paint 3D,
+Animaker, Goggle & Airtable
+
+Driving licence BE
 
 Publications
 ======
@@ -56,4 +80,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Cur[CV Lars Jacobs (EN) UB.pdf](https://github.com/LarsJacobs/LarsJacobs.github.io/files/8976673/CV.Lars.Jacobs.EN.UB.pdf)
+rently signed in to 43 different slack teams
