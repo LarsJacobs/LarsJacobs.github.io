@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,6 +14,7 @@ Work experience
 ======
 * Logistic administrative Employee — Institute of Data Science
 (IDS) & Department of Advanced Computing Sciences (DACS), Maastricht University
+======
   * Office Assistance
   * Office move to Paul-Henri Spaaklaan (PHS 1)
   * Support Organizing the WiDS 2021 Conference & Datathon
@@ -25,6 +26,7 @@ Work experience
 
 * Operational Assistant — Institute of Data Science (IDS),
 Maastricht University
+======
   * Purchasing and stock management
   * Maintaining office rooms and equipment
   * Receiving (internal and external) guests
@@ -32,6 +34,7 @@ Maastricht University
   * UM Data Science Research Seminars 2019/2020
 
 * Administrative Assistant at How2behealthy (H2BH)
+======
   *  Checking and processing all outgoing and incoming invoices
   *  Recruiting consultants & sales
 
@@ -39,7 +42,7 @@ Education
 ======
 Financial Assistant — Rea College, Pluryn, Heerlen
 2015 - 2017
-
+======
 Facility Management — Zuyd Hogeschool, Heerlen
 2008 (Propedeuse) - 2013
 
