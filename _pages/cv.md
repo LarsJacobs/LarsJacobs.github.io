@@ -46,7 +46,30 @@ Financial Assistant — Rea College, Pluryn, Heerlen
 Facility Management — Zuyd Hogeschool, Heerlen
 2008 (Propedeuse) - 2013
 
-  
+Volunteer work
+======
+Milieudefensie
+Maastricht
+*tasks:
+##
+  * Organizing/ hosting marches and events
+  * Create petition website and socials and;
+  * Organize monthly meetings
+
+Pint of Science
+Maastricht
+*tasks:
+##
+  * Venue Manager and;
+  * Co-organiser
+
+Kidzcollege
+Maastricht University
+*taks:
+##
+  * Co-content creator and;
+  * Teacher
+
 Professional Skills
 ======
 
@@ -63,10 +86,15 @@ Time Management
 Flexibility
 
 With tools, like:
+
 Google, Microsoft, SAP,
+
 GitHub, Raspberry Pi, Zapier,
+
 SLACK, Instagram, Facebook,
+
 Adobe Photoshop, Paint 3D,
+
 Animaker, Goggle & Airtable
 
   
