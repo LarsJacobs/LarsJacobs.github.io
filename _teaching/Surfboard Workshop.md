@@ -15,7 +15,7 @@ Heading 1 How to Build a Wooden Surfboard
 
 Heading 2 First 10 steps
 ======
-"Thank God for a few free waves." ---<cite>Miki Dora</cite>
+<q>Thank God for a few free waves.&#8230;</q> &#8211;Miki Dora
 
 Heading 3 Sub or Surf?
 ======
