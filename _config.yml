@@ -58,7 +58,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
+facebook:"https://www.facebook.com/lars.jacobs.311/"
   username               :
   app_id                 :
   publisher              :
