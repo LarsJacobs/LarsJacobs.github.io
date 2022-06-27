@@ -1,5 +1,8 @@
 # main links links
 main:
+   - title: "About me"
+    url: /Aboutme/  
+
   - title: "Talks"
     url: /talks/    
 
@@ -14,4 +17,4 @@ main:
     
   - title: "CV"
     url: /cv/
-
+     
