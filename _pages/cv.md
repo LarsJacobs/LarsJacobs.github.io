@@ -80,5 +80,4 @@ Teaching
   
 Service and leadership
 ======
-* Cur[CV Lars Jacobs (EN) UB.pdf](https://github.com/LarsJacobs/LarsJacobs.github.io/files/8976673/CV.Lars.Jacobs.EN.UB.pdf)
-rently signed in to 43 different slack teams
+* [CV Lars Jacobs (ENG).pdf](https://github.com/LarsJacobs/LarsJacobs.github.io/files/8990691/CV.Lars.Jacobs.ENG.pdf)
