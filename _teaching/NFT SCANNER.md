@@ -10,11 +10,11 @@ location: "Maastricht, The Netherlands"
 
 WORKING ON IT... BRB
 
-Heading 1
+Heading 1 SCANNER NO SCAMMER
 ======
 
-Heading 2
+Heading 2 ALL YOU NEED IS FAIR
 ======
 
-Heading 3
+Heading 3 HELP TO CAPTURE THE UNIQUE FEELING
 ======
