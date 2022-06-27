@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+Passionate hospitality professional with a demonstrated history of working as a team player in an innovative international environment. People person at heart & skilled in customer and employee experience. Highly developed in designing and leading internal administration, logistic, onboarding & training.
+======
 {% include base_path %}
 
-Passionate hospitality professional with a demonstrated history of working as a team player in an innovative international environment. People person at heart & skilled in customer and employee experience. Highly developed in designing and leading internal administration, logistic, onboarding & training.
 Work experience
 ======
 * Logistic administrative Employee — Institute of Data Science
