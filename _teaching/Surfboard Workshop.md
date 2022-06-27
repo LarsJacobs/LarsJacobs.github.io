@@ -3,7 +3,7 @@ title: "Off-side Surfboard Construction Workshop"
 collection: teaching
 type: "Workshop"
 permalink: /workshop/Surfboard_Construction
-venue: "Florianópolis, Brasil"
+venue: "(strike)Florianópolis, Brasil(/strike)"
 date: 2021-01-01
 location: "Maastricht, The Netherlands"
 ---
