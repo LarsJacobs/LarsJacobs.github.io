@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Work experience
 ======
 * Logistic administrative Employee — Institute of Data Science
@@ -21,6 +22,7 @@ Work experience
   * Internal Onboarding IDS
   * Technical Assistance for lecturers
   * Media support to the IDS and researchers
+
 * Operational Assistant — Institute of Data Science (IDS),
 Maastricht University
   * Purchasing and stock management
@@ -28,6 +30,7 @@ Maastricht University
   * Receiving (internal and external) guests
   * Preparing meetings and events
   * UM Data Science Research Seminars 2019/2020
+
 * Administrative Assistant at How2behealthy (H2BH)
   *  Checking and processing all outgoing and incoming invoices
   *  Recruiting consultants & sales
@@ -59,12 +62,6 @@ Adobe Photoshop, Paint 3D,
 Animaker, Goggle & Airtable
 
 Driving licence BE
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -72,12 +69,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Intrests
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Appendix
 ======
 * [CV Lars Jacobs (ENG).pdf](https://github.com/LarsJacobs/LarsJacobs.github.io/files/8990691/CV.Lars.Jacobs.ENG.pdf)
