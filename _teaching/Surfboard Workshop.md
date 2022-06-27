@@ -15,6 +15,7 @@ Heading 1 How to Build a Wooden Surfboard
 
 Heading 2 First 10 steps
 ======
+"Thank God for a few free waves." ---<cite>Automattic</cite>
 
 Heading 3 Sub or Surf?
 ======
