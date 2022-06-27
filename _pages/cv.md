@@ -51,10 +51,15 @@ Professional Skills
 ======
 
 Adaptability & Creativity
+
 Communication
+
 Openness to experience
+
 Conscientiousness
+
 Time Management
+
 Flexibility
 
 With tools, like:
@@ -64,7 +69,6 @@ SLACK, Instagram, Facebook,
 Adobe Photoshop, Paint 3D,
 Animaker, Goggle & Airtable
 
-Driving licence BE
   
 Talks
 ======
@@ -72,7 +76,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Intrests
+Interests
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
