@@ -58,7 +58,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:"https://www.facebook.com/lars.jacobs.311/"
+facebook:
   username               :
   app_id                 :
   publisher              :
@@ -98,15 +98,15 @@ logistic, onboarding & training."
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : # "https://www.facebook.com/lars.jacobs.311/"
+  facebook         : "lars.jacobs.311/"
   foursquare       :
-  github           : #"https://pages.github.com/?(null)"
+  github           : "LarsJacobs"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/louwiejohnsson/"
+  instagram        : "louwiejohnsson/"
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lars-jacobs-0765b8162"
+  linkedin         : "lars-jacobs-0765b8162/"
   orcid            : 
   pinterest        :
   soundcloud       :
