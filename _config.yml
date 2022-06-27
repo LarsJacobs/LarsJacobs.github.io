@@ -88,7 +88,7 @@ People person at heart & skilled in customer and employee experience.
 Highly developed in designing and leading internal administration,
 logistic, onboarding & training."
   location         : "Maastricht, The Netherlands"
-  employer         : "https://www.maastrichtuniversity.nl/lars.jacobs"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : 
@@ -98,7 +98,7 @@ logistic, onboarding & training."
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/lars.jacobs.311/"
+  facebook         : # "https://www.facebook.com/lars.jacobs.311/"
   foursquare       :
   github           : #"https://pages.github.com/?(null)"
   google_plus      :
