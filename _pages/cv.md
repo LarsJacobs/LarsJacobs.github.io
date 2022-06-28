@@ -50,6 +50,7 @@ Volunteer work
 ======
 Milieudefensie
 Maastricht
+
 <var>tasks:</var>
   * Organizing/ hosting marches and events
   * Create petition website and socials and;
@@ -57,6 +58,7 @@ Maastricht
 
 Pint of Science
 Maastricht
+
 <var>tasks:</var>
   * Venue Manager and;
   * Co-organiser
@@ -83,6 +85,7 @@ Time Management
 
 Flexibility
 
+""
 
 With tools, like:
 
