@@ -9,5 +9,6 @@ location: "Open Source, Community"
 ---
 
 What is Open Source?
+ * [Opensource](https://opensource.com/resources/what-open-source)
 
 HOT BEANS! Your tamplates to use as a GitHub beginner 
