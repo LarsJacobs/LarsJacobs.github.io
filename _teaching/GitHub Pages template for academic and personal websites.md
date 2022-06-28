@@ -2,7 +2,7 @@
 title: "Ready-to-fork GitHub Pages templates"
 collection: teaching
 type: "Workshop"
-permalink: /Simplecoding/GithubPagestemplates
+permalink: /workshop/GithubPagestemplates
 venue: "Online"
 date: 2022-01-01
 location: "Open Source, Community"
