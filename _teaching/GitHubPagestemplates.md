@@ -14,7 +14,7 @@ What is Open Source?
 HOT BEANS! Your tamplates to use as a GitHub beginner
 
 
-1 - Academicpages is a ready-to-fork GitHub Pages template for academic and personal websites
+1 - Academicpages is a ready to fork GitHub Pages template for academic and personal websites
 ======
 
 2 - Other tamplates will follow soon
